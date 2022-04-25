@@ -1,0 +1,167 @@
+.header{
+    width: 1366px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    color: #fff;
+}
+.header-image{
+    width: 1366px;
+    height: 324px;
+    
+}
+.header-box{
+    width: 1089px;
+    height: 20px;
+    position: absolute;
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav-li{
+    display: flex;
+    margin-left: 150px;
+}
+.li{
+ margin-left: 10px;
+ color: #fff;
+    
+}
+.title{
+    margin: 96px 1032px 119px 139px;
+    position: absolute;
+}
+/* section2 */
+.container{
+    width: 1175px;
+    margin: 400px auto;
+    display: flex;
+    align-items: center;
+    
+}
+.left-block{
+    width: 444px;
+    height: 388px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    
+}
+.mini-box{
+    width: 184px;
+    height: 50px;
+    background-color: blue;
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.mini{
+    position: absolute;
+    color: #fff;
+    
+    
+}
+.right-block{
+    width: 536px;
+    height: 461px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.block-image{
+    width: 200px;
+    margin-right: 5px;
+    
+    
+}
+.image-block{
+    width: 536px;
+    margin-top: 5px;
+    
+}
+.h2{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-size: 42px;
+    color: black;
+}
+/* section3 */
+.container2{
+    width: 1366px;
+    height: 612px;
+   display: flex;
+   margin-top: 60px;
+   
+    
+}
+.container-image{
+    width: 1366px;
+    height: 612px;
+    position: relative;
+    margin-top: 30px;
+    
+}
+.container-h{
+    font-size: 42px;
+    color: #fff;
+    
+}
+.wraper{
+
+    width: 1104px;
+    height: 294px;
+   position: absolute;
+   margin: 0 auto;
+   margin-top: 300px;
+   display: flex;
+   justify-content: space-between;
+  
+   
+
+
+
+}
+.block{
+    width: 260px;
+    height: 260px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #fff;
+}
+.block-text{
+    width: 221px;
+    text-align: center;
+    margin-top: 10px;
+}
+.box-image{
+    width: 32px;
+    height: 32px;
+}
+.box{
+    width: 58px;
+    height: 59px;
+    background-color: blue;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: ;
+    
+}
+.text-block{
+    width: 376px;
+    height: 115px;
+    position: absolute;
+    display: flex;
+    
+    flex-direction: column;
+    margin: 113px 851px 384px 139px;
+}
